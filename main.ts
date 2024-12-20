@@ -1,5 +1,4 @@
 //Gonzalo Vazquez Segura y Alberto Gonzalez-Calero Lopez
-
 import { MongoClient } from "mongodb";
 import { ApolloServer } from "@apollo/server";
 import { startStandaloneServer } from "@apollo/server/standalone";
